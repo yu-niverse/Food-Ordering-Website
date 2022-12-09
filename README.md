@@ -1,3 +1,3 @@
 # Food Ordering Website Setup
 A website with functions similar to the UberEats platform.
-The database is built via XAMPP, MySQL, phpMyAdmin.
+<br/> The database is built via XAMPP, MySQL, phpMyAdmin.
